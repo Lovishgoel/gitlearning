@@ -1,0 +1,5 @@
+L -> S: Hey bruder! Wie gehts? Wie hiesst du?
+Ant: Mir geht's prima und meine Freunde nennen mich 'Sai'! Ich hoffe es geht gut bei dir auch =)
+
+S -> L: Woher genau kommst du in Indien?
+
