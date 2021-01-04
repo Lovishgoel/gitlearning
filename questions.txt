@@ -11,5 +11,8 @@ S -> L: Was sind deine Hobbys?
 Ant: Meine Hobbys sind zu reisen und zu neue Orte erkunden und neue Leute kennenzulernen, zu fotografieren, in die berge wandern und einen Sonnenuntergang zu sehen.
 
 L -> S: Hast du in diesem Quarantaene zeit etwas neues gelernt oder etwas begonnen, das du vor einiger Zeit verlassen hast?
+Ant: Naja nicht besonders, ich habe wieder einen neuen Rubiks Wurfel gekauft, um ihn lösen zu können. Außerdem, in deser Quarantänezeit habe ich auch angefangt "Game of thrones" Roman zu lesen, aber es läuft nicht gut.
+
+S -> L: Welche Jahreszeit gefällt dir am besten and warum?
 Ant: 
 
