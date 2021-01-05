@@ -23,4 +23,7 @@ S -> L: Welche ist deine Lieblingsfarbe?
 Ant: Meine Lieblingsfarbe ist Orange.
 
 L -> S: Was ist dein Lieblingssport?
-Ant:
+Ant: Der Sport, den ich am meisten mag, ist Badminton! Ich glaube, ich bin auch ziemlich gut in diesem Spiel. Mein Vater war mein inspiration beim Aufwachsen, weil er auch sehr gut in Badminton ist.
+
+S -> L: Falls du Ingenieur nicht wäre, welche Sportart hättest du Professional betrieben?
+Ant: 
