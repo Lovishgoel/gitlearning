@@ -16,3 +16,5 @@ Ant: Naja nicht besonders, ich habe wieder einen neuen Rubiks Wurfel gekauft, um
 S -> L: Welche Jahreszeit gefällt dir am besten and warum?
 Ant: Ich mag den Winter, weil ich dunkle Naechte mag und es mir Hoffnung gibt, dass sich alles, was gestorben bist, bald verjuengt.
 
+L -> S: Was ist dein Lieblingssport?
+Ant:
