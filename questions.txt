@@ -21,3 +21,6 @@ Ant: Ja, ich vermisse meine Stadt und vor allem vermisse ich die verschiedene hi
 
 S -> L: Welche ist deine Lieblingsfarbe?
 Ant: Meine Lieblingsfarbe ist Orange.
+
+L -> S: Was ist dein Lieblingssport?
+Ant:
