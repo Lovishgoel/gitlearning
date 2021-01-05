@@ -26,4 +26,4 @@ L -> S: Was ist dein Lieblingssport?
 Ant: Der Sport, den ich am meisten mag, ist Badminton! Ich glaube, ich bin auch ziemlich gut in diesem Spiel. Mein Vater war mein inspiration beim Aufwachsen, weil er auch sehr gut in Badminton ist.
 
 S -> L: Falls du Ingenieur nicht wäre, welche Sportart hättest du Professional betrieben?
-Ant: 
+Ant:  Wenn ich eine Sportart unter anderen auswaehlen muesste, um professionell zu sein, wuerde ich Schach waehlen.
