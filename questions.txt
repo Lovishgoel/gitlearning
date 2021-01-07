@@ -4,8 +4,8 @@ Ant: Mir geht's prima und meine Freunde nennen mich 'Sai'! Ich hoffe es geht dir
 S -> L: Woher genau kommst du in Indien?
 Ant: Ich komme aus New Delhi in Indien.
 
-L -> S : Und woher kommst du in Indien? Wie lange bist du in Deutschland?
-Ant: Ich komme aus einem kleinen Bezirk namens Ballari, der in einem Bundesland namens Karnataka liegt. Bislang habe ich 2 Jahre und 4 Monate in Deutschland gelebt.
+L -> S: Und woher kommst du in Indien? Wie lange bist du in Deutschland?
+Ant: Ich komme aus Karnataka und bislang habe ich 2 Jahre und 4 Monate in Deutschland gelebt.
 
 S -> L: Was sind deine Hobbys? 
 Ant: Meine Hobbys sind zu reisen und zu neue Orte erkunden und neue Leute kennenzulernen, zu fotografieren, in die berge wandern und einen Sonnenuntergang zu sehen.
@@ -21,6 +21,3 @@ Ant: Der Sport, den ich am meisten mag, ist Badminton! Ich glaube, ich bin auch 
 
 S -> L: Falls du Ingenieur nicht wäre, welche Sportart hättest du Professional betrieben?
 Ant:  Wenn ich eine Sportart unter anderen auswaehlen muesste, um professionell zu sein, wuerde ich Schach waehlen.
-
-L -> S : Vermisst du deine Stadt? Wenn ja, was vermisst du am meisten?
-Ant:
