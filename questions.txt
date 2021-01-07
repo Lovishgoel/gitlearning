@@ -4,7 +4,11 @@ Ant: Mir geht's prima und meine Freunde nennen mich 'Sai'! Ich hoffe es geht gut
 S -> L: Woher genau kommst du in Indien?
 Ant:Ich komme aus New Delhi in Indien.
 
-L -> S : Und woher kommst du in Indien? Wie lange bist du in Deutschland?
+L -> S: Und woher kommst du in Indien? Wie lange bist du in Deutschland?
 Ant: Ich komme aus einem kleinen Bezirk namens Ballari, der in einem Bundesland namens Karnataka liegt. Bislang habe ich 2 Jahre und 4 Monate in Deutschland gelebt.
 
-L -> S : Vermisst du deine Stadt? Wenn ja, was vermisst du am meisten?
+L -> S: Vermisst du deine Stadt? Wenn ja, was vermisst du am meisten?
+Ant: Ja, ich vermisse meine Stadt und vor allem vermisse ich die verschiedene hiesige leckere Essen.
+
+S -> L: Welche ist deine Lieblingsfarbe?
+Ant:
