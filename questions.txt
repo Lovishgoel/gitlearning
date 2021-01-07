@@ -5,7 +5,7 @@ S -> L: Woher genau kommst du in Indien?
 Ant: Ich komme aus New Delhi in Indien.
 
 L -> S: Und woher kommst du in Indien? Wie lange bist du in Deutschland?
-Ant: Ich komme aus Karnataka und bislang habe ich 2 Jahre und 4 Monate in Deutschland gelebt.
+Ant: Ich komme aus einem kleinen Bezirk namens Ballari, der in einem Bundesland namens Karnataka liegt. Bislang habe ich 2 Jahre und 4 Monate in Deutschland gelebt.
 
 S -> L: Was sind deine Hobbys? 
 Ant: Meine Hobbys sind zu reisen und zu neue Orte erkunden und neue Leute kennenzulernen, zu fotografieren, in die berge wandern und einen Sonnenuntergang zu sehen.
@@ -16,3 +16,8 @@ Ant: Naja nicht besonders, ich habe wieder einen neuen Rubiks Wurfel gekauft, um
 S -> L: Welche Jahreszeit gefällt dir am besten and warum?
 Ant: Ich mag den Winter, weil ich dunkle Naechte mag und es mir Hoffnung gibt, dass sich alles, was gestorben bist, bald verjuengt.
 
+L -> S: Vermisst du deine Stadt? Wenn ja, was vermisst du am meisten?
+Ant: Ja, ich vermisse meine Stadt und vor allem vermisse ich die verschiedene hiesige leckere Essen.
+
+S -> L: Welche ist deine Lieblingsfarbe?
+Ant:
