@@ -20,4 +20,4 @@ L -> S: Vermisst du deine Stadt? Wenn ja, was vermisst du am meisten?
 Ant: Ja, ich vermisse meine Stadt und vor allem vermisse ich die verschiedene hiesige leckere Essen.
 
 S -> L: Welche ist deine Lieblingsfarbe?
-Ant:
+Ant: Meine Lieblingsfarbe ist Orange.
