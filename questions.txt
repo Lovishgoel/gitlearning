@@ -27,3 +27,6 @@ Ant: Der Sport, den ich am meisten mag, ist Badminton! Ich glaube, ich bin auch 
 
 S -> L: Falls du Ingenieur nicht wäre, welche Sportart hättest du Professional betrieben?
 Ant:  Wenn ich eine Sportart unter anderen auswaehlen muesste, um professionell zu sein, wuerde ich Schach waehlen.
+
+L -> S: Wann hast du deine Stadt das letzte mal besucht?
+Ant:
